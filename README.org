@@ -1,0 +1,10 @@
+* hunchentoot-auth
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/slyrus/hunchentoot-auth.git   |
+| commit  | 7c2492e  |
+| systems | hunchentoot-auth |
+|---------+-------------------------------------------|
+
